@@ -1,63 +1,7 @@
-22/03/2021 15:47:09 Starting Server...
-22/03/2021 15:47:29 Client Lia Connected
-22/03/2021 15:47:32 Message: {"messageBody":"Hello","user":"Lia"}
-22/03/2021 15:52:09 Starting Server...
-22/03/2021 15:52:28 Client Lia Connected
-22/03/2021 15:52:32 Message: {"messageBody":"Hi","user":"Lia"}
-22/03/2021 15:53:17 Client Lori Connected
-22/03/2021 15:53:20 Message: {"messageBody":"Hi","user":"Lori"}
-22/03/2021 15:53:30 Message: {"messageBody":"chatters","user":"Lori"}
-22/03/2021 16:00:57 Starting Server...
-22/03/2021 16:01:13 Client Lia Connected
-22/03/2021 16:01:18 Message: {"messageBody":"chatters","user":"Lia"}
-22/03/2021 16:01:27 Message: {"messageBody":"hei","user":"Lia"}
-22/03/2021 16:23:26 Starting Server...
-22/03/2021 16:23:50 Client Lia Connected
-22/03/2021 16:32:42 Starting Server...
-22/03/2021 16:32:56 Client Lia Connected
-22/03/2021 16:32:58 Message: {"messageBody":"yo","user":"Lia"}
-22/03/2021 16:40:45 Starting Server...
-22/03/2021 16:41:02 Client Lia did not connect
-22/03/2021 16:41:06 Client Lia did not connect
-22/03/2021 16:41:07 Client Lia did not connect
-22/03/2021 16:41:08 Client Lia did not connect
-22/03/2021 16:41:12 Client Lia did not connect
-22/03/2021 16:41:15 Client Lia Connected
-22/03/2021 16:41:22 Message: {"messageBody":"Hi","user":"Lia"}
-22/03/2021 16:41:45 Client Lori Connected
-22/03/2021 16:41:48 Message: {"messageBody":"Hi","user":"Lori"}
-22/03/2021 16:42:04 Message: {"messageBody":"chatters","user":"Lia"}
-22/03/2021 16:51:09 Starting Server...
-22/03/2021 16:51:29 Client Lia did not connect
-22/03/2021 16:52:14 Client Lia Connected
-22/03/2021 16:52:26 Message: connect
-22/03/2021 16:52:26 Message: Lia
-22/03/2021 16:53:18 Client Lia did not connect
-22/03/2021 16:53:25 Client Lia Connected
-22/03/2021 18:05:17 Starting Server...
-22/03/2021 18:05:31 Client Lia Connected
-22/03/2021 18:05:35 Message: {"messageBody":"hi\\","user":"Lia"}
-22/03/2021 18:05:56 Message: {"messageBody":"chatters","user":"Lia"}
-22/03/2021 18:06:27 Client Lori Connected
-22/03/2021 18:06:30 Message: {"messageBody":"hii","user":"Lori"}
-22/03/2021 18:56:18 Starting Server...
-22/03/2021 18:56:31 Client Lia Connected
-22/03/2021 18:56:33 Message: {"messageBody":"hi","user":"Lia"}
-24/03/2021 10:57:26 Starting Server...
-24/03/2021 10:57:40 Client Lia Connected
-24/03/2021 11:02:12 Starting Server...
-24/03/2021 11:02:27 Client Lia Connected
-24/03/2021 11:02:32 Message: {"messageBody":"Hi","user":"Lia"}
-24/03/2021 11:02:57 Message: {"messageBody":"hi","user":"Lia"}
-24/03/2021 11:03:15 Client Lia Connected
-24/03/2021 11:03:18 Message: {"messageBody":"hi","user":"Lia"}
-24/03/2021 11:03:29 Message: {"messageBody":"hi","user":"Lia"}
-24/03/2021 14:36:03 Client Lia Connected
-24/03/2021 14:36:26 Message: {"messageBody":"hi","user":"Lia"}
-24/03/2021 14:39:17 Starting Server...
-24/03/2021 14:39:39 Client Lia Connected
-24/03/2021 14:39:42 Message: {"messageBody":"hi","user":"Lia"}
-24/03/2021 14:48:17 Starting Server...
-24/03/2021 14:48:29 Client Lia Connected
-24/03/2021 14:48:33 Message: {"messageBody":"chatters","user":"Lia"}
-24/03/2021 14:48:39 Message: {"messageBody":"Chatters","user":"Lia"}
+27/03/2021 12:41:40 Starting Server...
+27/03/2021 12:42:01 Client Lia Connected
+27/03/2021 12:42:04 Message: {"messageBody":"Hello","user":"Lia"}
+27/03/2021 12:42:20 Client Lori Connected
+27/03/2021 12:42:24 Message: {"messageBody":"Hi","user":"Lori"}
+27/03/2021 12:42:42 Message: {"messageBody":"What\u0027s up?","user":"Lia"}
+27/03/2021 12:42:47 Message: {"messageBody":"good","user":"Lori"}

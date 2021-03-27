@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="568.0" prefWidth="360.0" userData="Login" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="view.LoginViewController">
+   <children>
+      <ImageView fitHeight="113.0" fitWidth="99.0" layoutX="131.0" layoutY="33.0" pickOnBounds="true" preserveRatio="true">
+          <image>
+              <Image url="@chat.png" />
+          </image>
+      </ImageView>
+      <AnchorPane layoutY="144.0" prefHeight="424.0" prefWidth="360.0">
+         <children>
+            <Pane layoutX="50.0" layoutY="17.0" prefHeight="342.0" prefWidth="261.0" style="-fx-background-color: #F9F9F9; -fx-border-color: rgba(215,215,215,0.80);">
+               <children>
+                  <TextField fx:id="username" layoutX="43.0" layoutY="98.0" prefHeight="32.0" prefWidth="176.0" promptText="Your name" />
+                  <Label layoutX="43.0" layoutY="65.0" opacity="0.7" text="Name">
+                     <font>
+                        <Font size="16.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="43.0" layoutY="151.0" opacity="0.7" text="Password">
+                     <font>
+                        <Font size="16.0" />
+                     </font>
+                  </Label>
+                  <Button layoutX="82.0" layoutY="261.0" mnemonicParsing="false" onAction="#openChat" prefHeight="37.0" prefWidth="99.0" style="-fx-background-color: #6C63FF;" text="Log In" textFill="WHITE">
+                     <font>
+                        <Font name="Leelawadee" size="16.0" />
+                     </font>
+                     <effect>
+                        <DropShadow color="#ddd6d6" />
+                     </effect>
+                  </Button>
+                  <PasswordField fx:id="password" layoutX="43.0" layoutY="186.0" prefHeight="32.0" prefWidth="176.0" promptText="Public password : connect" />
+                  <Label layoutX="46.0" layoutY="22.0" text="Glad to see you again!" textFill="#837373">
+                     <font>
+                        <Font name="Leelawadee Bold" size="16.0" />
+                     </font>
+                  </Label>
+               </children>
+            </Pane>
+            <Label fx:id="error" alignment="CENTER" layoutX="50.0" layoutY="373.0" prefHeight="20.0" prefWidth="261.0" textFill="#fc6262">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>
